@@ -1,2 +1,2 @@
 # react-dev-boilerplate
-react development biolderplate with using cra
+react development biolderplate without using cra
